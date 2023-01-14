@@ -1,0 +1,2 @@
+Value1: Skeld,MiraHQ,Defeat
+Value2: Red,Purple,Blue
